@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8bc34a</color>
+    <color name="colorPrimaryDark">#689f38</color>
+    <color name="colorAccent">#33691e</color>
+    <color name="txtColor">#FFFFFF</color>
+    <color name="hintColor">#dc9a9a</color>
+
+    <color name="windowBackground">#1C1C1C</color>
+    <color name="colorButtonNormal">#FFFFFB</color>
+    <color name="textColorPrimary">#FFFFFB</color>
+    <color name="textColorPrimaryInverse">#1C1C1C</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="divider">#333333</color>
+
+
+    <color name="material_green_500">#8BC34A</color>
+    <color name="material_green_700">#689F38</color>
+    <color name="material_green_a700">#33691E</color>
+
+</resources>
